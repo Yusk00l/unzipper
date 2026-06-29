@@ -80,16 +80,3 @@ int main(int argc, char* argv[]) {
     close(fd);
     return 0;
 } //end of main
-
-//the decription that is unfinished
-
-/*
-a program for linux mint that can run in the backround. 
-Its 3 features:
-1.Auto extracts any zip file that goes into the download folder
-Disclaimer: does not work on zip folders with passwords on them, it will just skip it.
-2.automatically sets up the permisions so the file can be able to read and write and be able to run as a program
-3.
-
-*/
-//also would like to add more features
